@@ -8,8 +8,7 @@ Using Tensorflow+Keras to create a Generative Adversarial Network that will be a
 
 
 First Epoch:
-![alt text](https://github.com/fduque/CreatingFashion_UsingGAN_fashion_MNIST/blob/master/9800Epochs.png)
-
+![alt text](https://github.com/fduque/CreatingFashion_UsingGAN_fashion_MNIST/blob/master/0%20Epoch.png)
 
 After 9800 epochs applied:
-![alt text](https://github.com/fduque/CreatingFashion_UsingGAN_fashion_MNIST/blob/master/0%20Epoch.png)
+![alt text](https://github.com/fduque/CreatingFashion_UsingGAN_fashion_MNIST/blob/master/9800Epochs.png)
